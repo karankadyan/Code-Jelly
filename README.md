@@ -90,8 +90,8 @@ Convex functions are divided into three categories:
    npm install convex
    npx convex dev
 
-	4.	Ensure two terminal sessions remain active: one for the Next.js server and one for the Convex backend.
-	5.	Define Convex schema tables (users, codeExecutions, snippets, comments, stars).
-	6.	Configure Clerk authentication, environment variables, and provider wrappers.
-	7.	Set up webhooks for Clerk and Lemon Squeezy pointing to the Convex deployment URL for synchronization.
+4.	Ensure two terminal sessions remain active: one for the Next.js server and one for the Convex backend.
+5.	Define Convex schema tables (users, codeExecutions, snippets, comments, stars).
+6.	Configure Clerk authentication, environment variables, and provider wrappers.
+7.	Set up webhooks for Clerk and Lemon Squeezy pointing to the Convex deployment URL for synchronization.
 
